@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, AI, and open-source projects
 - 🌱 I’m currently learning React, TypeScript, and machine learning
 - 💞️ I’m looking to collaborate on exciting web apps and AI-driven projects
-- 📫 How to reach me loma.gerhold@go.sfcollege.edu
+- 📫 How to reach me ##
 - 😄 Pronouns:She
 - ⚡ Fun fact: I can code for hours without realizing it's midnight
 
